@@ -1,0 +1,2751 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{Ali2021AuditLogSurvey}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3a38e3aa72b7b31891ae1014817b0692}{%
+           family={Ali},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=94b628f569d3886f2a02e3b021554b23}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5faa0905ce9e85252fbed0529647d36d}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{22c377a9cc8ab271193ab9fe0b783998}
+      \strng{fullhash}{cedb3f2935e57cb5d44a91fecfbde4b2}
+      \strng{fullhashraw}{cedb3f2935e57cb5d44a91fecfbde4b2}
+      \strng{bibnamehash}{cedb3f2935e57cb5d44a91fecfbde4b2}
+      \strng{authorbibnamehash}{cedb3f2935e57cb5d44a91fecfbde4b2}
+      \strng{authornamehash}{22c377a9cc8ab271193ab9fe0b783998}
+      \strng{authorfullhash}{cedb3f2935e57cb5d44a91fecfbde4b2}
+      \strng{authorfullhashraw}{cedb3f2935e57cb5d44a91fecfbde4b2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Security and Privacy}
+      \field{number}{3}
+      \field{title}{Audit logs management and security: a survey}
+      \field{volume}{4}
+      \field{year}{2021}
+      \field{pages}{e155}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1002/spy2.155
+      \endverb
+    \endentry
+    \entry{claudecode2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f431db65cea024a5f19eab835afefee2}{%
+           family={{Anthropic}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f431db65cea024a5f19eab835afefee2}
+      \strng{fullhash}{f431db65cea024a5f19eab835afefee2}
+      \strng{fullhashraw}{f431db65cea024a5f19eab835afefee2}
+      \strng{bibnamehash}{f431db65cea024a5f19eab835afefee2}
+      \strng{authorbibnamehash}{f431db65cea024a5f19eab835afefee2}
+      \strng{authornamehash}{f431db65cea024a5f19eab835afefee2}
+      \strng{authorfullhash}{f431db65cea024a5f19eab835afefee2}
+      \strng{authorfullhashraw}{f431db65cea024a5f19eab835afefee2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.anthropic.com/index/claude-code}}
+      \field{note}{Accessed 17 August 2025}
+      \field{title}{Claude Code}
+      \field{year}{2024}
+    \endentry
+    \entry{Arham2025AIBlockchainAudit}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=613e6ec135b779ef073ecd8e37bd1f88}{%
+           family={Arham},
+           familyi={A\bibinitperiod},
+           given={M.\bibnamedelimi W.},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{613e6ec135b779ef073ecd8e37bd1f88}
+      \strng{fullhash}{613e6ec135b779ef073ecd8e37bd1f88}
+      \strng{fullhashraw}{613e6ec135b779ef073ecd8e37bd1f88}
+      \strng{bibnamehash}{613e6ec135b779ef073ecd8e37bd1f88}
+      \strng{authorbibnamehash}{613e6ec135b779ef073ecd8e37bd1f88}
+      \strng{authornamehash}{613e6ec135b779ef073ecd8e37bd1f88}
+      \strng{authorfullhash}{613e6ec135b779ef073ecd8e37bd1f88}
+      \strng{authorfullhashraw}{613e6ec135b779ef073ecd8e37bd1f88}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Industrial and Business Management}
+      \field{number}{2}
+      \field{title}{Transforming auditing through AI and blockchain}
+      \field{volume}{15}
+      \field{year}{2025}
+      \field{pages}{225\bibrangedash 241}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.4236/ajibm.2025.152011
+      \endverb
+    \endentry
+    \entry{bafin_wphg}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=01d64d44c653417b7756e64da3af192d}{%
+           family={{BaFin}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{01d64d44c653417b7756e64da3af192d}
+      \strng{fullhash}{01d64d44c653417b7756e64da3af192d}
+      \strng{fullhashraw}{01d64d44c653417b7756e64da3af192d}
+      \strng{bibnamehash}{01d64d44c653417b7756e64da3af192d}
+      \strng{authorbibnamehash}{01d64d44c653417b7756e64da3af192d}
+      \strng{authornamehash}{01d64d44c653417b7756e64da3af192d}
+      \strng{authorfullhash}{01d64d44c653417b7756e64da3af192d}
+      \strng{authorfullhashraw}{01d64d44c653417b7756e64da3af192d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Securities Trading Act ({WpHG})—overview}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Aufsichtsrecht/Gesetz/WpHG_en.html
+      \endverb
+      \verb{url}
+      \verb https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Aufsichtsrecht/Gesetz/WpHG_en.html
+      \endverb
+    \endentry
+    \entry{bisIBS2025}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0c39aae51737b6bfb6c5b9de5963c7bf}{%
+           family={{Bank for International Settlements}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {BIS}%
+      }
+      \strng{namehash}{0c39aae51737b6bfb6c5b9de5963c7bf}
+      \strng{fullhash}{0c39aae51737b6bfb6c5b9de5963c7bf}
+      \strng{fullhashraw}{0c39aae51737b6bfb6c5b9de5963c7bf}
+      \strng{bibnamehash}{0c39aae51737b6bfb6c5b9de5963c7bf}
+      \strng{authorbibnamehash}{0c39aae51737b6bfb6c5b9de5963c7bf}
+      \strng{authornamehash}{0c39aae51737b6bfb6c5b9de5963c7bf}
+      \strng{authorfullhash}{0c39aae51737b6bfb6c5b9de5963c7bf}
+      \strng{authorfullhashraw}{0c39aae51737b6bfb6c5b9de5963c7bf}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{BIS international banking statistics and global liquidity indicators at end-September 2024}
+      \field{type}{Report}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.bis.org/statistics/rppb2501.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.bis.org/statistics/rppb2501.pdf
+      \endverb
+    \endentry
+    \entry{austria_bwg}{misc}{}{}
+      \list{organization}{1}{%
+        {RIS Bundeskanzleramt}%
+      }
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Bankwesengesetz ({BWG})}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004827
+      \endverb
+      \verb{url}
+      \verb https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004827
+      \endverb
+    \endentry
+    \entry{Cheng2024MultiagentRL}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=20e4673936a7ed1403cd4bffdb1d85b7}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={L.\bibnamedelimi C.},
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{20e4673936a7ed1403cd4bffdb1d85b7}
+      \strng{fullhash}{20e4673936a7ed1403cd4bffdb1d85b7}
+      \strng{fullhashraw}{20e4673936a7ed1403cd4bffdb1d85b7}
+      \strng{bibnamehash}{20e4673936a7ed1403cd4bffdb1d85b7}
+      \strng{authorbibnamehash}{20e4673936a7ed1403cd4bffdb1d85b7}
+      \strng{authornamehash}{20e4673936a7ed1403cd4bffdb1d85b7}
+      \strng{authorfullhash}{20e4673936a7ed1403cd4bffdb1d85b7}
+      \strng{authorfullhashraw}{20e4673936a7ed1403cd4bffdb1d85b7}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Artificial Intelligence in Finance}
+      \field{title}{Multi-agent based deep reinforcement learning framework for trading strategy and portfolio management}
+      \field{year}{2024}
+    \endentry
+    \entry{delReg2017_565}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Commission Delegated Regulation (EU) 2017/565 supplementing Directive 2014/65/EU}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0565
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0565
+      \endverb
+    \endentry
+    \entry{its2021451}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Commission Implementing Regulation (EU) 2021/451 laying down {ITS} for supervisory reporting under the {CRR}}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg_impl/2021/451/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg_impl/2021/451/oj
+      \endverb
+    \endentry
+    \entry{psd2_2015}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive (EU) 2015/2366 on payment services in the internal market ({PSD2})}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/dir/2015/2366/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/dir/2015/2366/oj
+      \endverb
+    \endentry
+    \entry{amld4_2015}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive (EU) 2015/849 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing (4{AMLD})}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/dir/2015/849/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/dir/2015/849/oj
+      \endverb
+    \endentry
+    \entry{amld5_2018}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive (EU) 2018/843 amending Directive (EU) 2015/849 (5{AMLD})}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/dir/2018/843/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/dir/2018/843/oj
+      \endverb
+    \endentry
+    \entry{emd2_2009}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive 2009/110/EC on the taking up, pursuit and prudential supervision of the business of electronic money institutions ({EMD~II})}
+      \field{year}{2009}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/dir/2009/110/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/dir/2009/110/oj
+      \endverb
+    \endentry
+    \entry{solvency2_2009}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive 2009/138/EC on the taking-up and pursuit of the business of insurance and reinsurance ({Solvency~II})}
+      \field{year}{2009}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/dir/2009/138/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/dir/2009/138/oj
+      \endverb
+    \endentry
+    \entry{ucits_2009}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive 2009/65/EC on undertakings for collective investment in transferable securities ({UCITS})}
+      \field{year}{2009}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/dir/2009/65/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/dir/2009/65/oj
+      \endverb
+    \endentry
+    \entry{aifmd_2011}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive 2011/61/EU on Alternative Investment Fund Managers ({AIFMD})}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/dir/2011/61/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/dir/2011/61/oj
+      \endverb
+    \endentry
+    \entry{crd2013}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive 2013/36/EU on access to the activity of credit institutions and the prudential supervision of credit institutions ({CRD})}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/dir/2013/36/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/dir/2013/36/oj
+      \endverb
+    \endentry
+    \entry{mifid2_2014}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive 2014/65/EU on markets in financial instruments ({MiFID~II})}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/dir/2014/65/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/dir/2014/65/oj
+      \endverb
+    \endentry
+    \entry{efamaFactbook2025}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b3f1abab5cf28b4bf1e2b7fc2e3e24ca}{%
+           family={{EFAMA}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {European Fund}%
+        {Asset Management Association}%
+      }
+      \strng{namehash}{b3f1abab5cf28b4bf1e2b7fc2e3e24ca}
+      \strng{fullhash}{b3f1abab5cf28b4bf1e2b7fc2e3e24ca}
+      \strng{fullhashraw}{b3f1abab5cf28b4bf1e2b7fc2e3e24ca}
+      \strng{bibnamehash}{b3f1abab5cf28b4bf1e2b7fc2e3e24ca}
+      \strng{authorbibnamehash}{b3f1abab5cf28b4bf1e2b7fc2e3e24ca}
+      \strng{authornamehash}{b3f1abab5cf28b4bf1e2b7fc2e3e24ca}
+      \strng{authorfullhash}{b3f1abab5cf28b4bf1e2b7fc2e3e24ca}
+      \strng{authorfullhashraw}{b3f1abab5cf28b4bf1e2b7fc2e3e24ca}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Trends in European investment funds: Fact Book 2025}
+      \field{type}{Report}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.efama.org/sites/default/files/fact-book-2025_lowres.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.efama.org/sites/default/files/fact-book-2025_lowres.pdf
+      \endverb
+    \endentry
+    \entry{DORA_EIOPA2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fa985e82ac6111d69e0240b42a80b775}{%
+           family={{EIOPA}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{fa985e82ac6111d69e0240b42a80b775}
+      \strng{fullhash}{fa985e82ac6111d69e0240b42a80b775}
+      \strng{fullhashraw}{fa985e82ac6111d69e0240b42a80b775}
+      \strng{bibnamehash}{fa985e82ac6111d69e0240b42a80b775}
+      \strng{authorbibnamehash}{fa985e82ac6111d69e0240b42a80b775}
+      \strng{authornamehash}{fa985e82ac6111d69e0240b42a80b775}
+      \strng{authorfullhash}{fa985e82ac6111d69e0240b42a80b775}
+      \strng{authorfullhashraw}{fa985e82ac6111d69e0240b42a80b775}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.eiopa.europa.eu/digital-operational-resilience-act-dora_en}}
+      \field{note}{Overview of DORA measures and scope}
+      \field{title}{Digital Operational Resilience Act ({DORA})}
+      \field{year}{2025}
+    \endentry
+    \entry{ebaPSD2Art28}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ba197b16851253ee9be33302bae6fcdd}{%
+           family={{European Banking Authority}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{fullhash}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{fullhashraw}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{bibnamehash}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{authorbibnamehash}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{authornamehash}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{authorfullhash}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{authorfullhashraw}{ba197b16851253ee9be33302bae6fcdd}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PSD2, Article 28: Application to exercise the right of establishment and freedom to provide services}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.eba.europa.eu/regulation-and-policy/single-rulebook/interactive-single-rulebook/16236
+      \endverb
+      \verb{url}
+      \verb https://www.eba.europa.eu/regulation-and-policy/single-rulebook/interactive-single-rulebook/16236
+      \endverb
+    \endentry
+    \entry{EBA_RTS2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ba197b16851253ee9be33302bae6fcdd}{%
+           family={{European Banking Authority}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{fullhash}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{fullhashraw}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{bibnamehash}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{authorbibnamehash}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{authornamehash}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{authorfullhash}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{authorfullhashraw}{ba197b16851253ee9be33302bae6fcdd}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.eba.europa.eu/activities/single-rulebook/regulatory-activities/operational-resilience/regulatory-technical-standards-policy-ict-services-supporting-critical-or-important-functions}}
+      \field{note}{DORA RTS on ICT third-party risk governance}
+      \field{title}{Regulatory Technical Standards on ICT services supporting critical or important functions}
+      \field{year}{2024}
+    \endentry
+    \entry{ecbFISEA2024}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fc0835c66c6644c8a6ca0239bce9cc73}{%
+           family={{European Central Bank}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {ECB}%
+      }
+      \strng{namehash}{fc0835c66c6644c8a6ca0239bce9cc73}
+      \strng{fullhash}{fc0835c66c6644c8a6ca0239bce9cc73}
+      \strng{fullhashraw}{fc0835c66c6644c8a6ca0239bce9cc73}
+      \strng{bibnamehash}{fc0835c66c6644c8a6ca0239bce9cc73}
+      \strng{authorbibnamehash}{fc0835c66c6644c8a6ca0239bce9cc73}
+      \strng{authornamehash}{fc0835c66c6644c8a6ca0239bce9cc73}
+      \strng{authorfullhash}{fc0835c66c6644c8a6ca0239bce9cc73}
+      \strng{authorfullhashraw}{fc0835c66c6644c8a6ca0239bce9cc73}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Financial integration and structure in the euro area}
+      \field{type}{Report}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.ecb.europa.eu/pub/pdf/fie/ecb.fie202406.en.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.ecb.europa.eu/pub/pdf/fie/ecb.fie202406.en.pdf
+      \endverb
+    \endentry
+    \entry{ec_equivalence}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Equivalence of non-EU financial frameworks: overview and list of decisions}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://finance.ec.europa.eu/eu-and-world/equivalence-non-eu-financial-frameworks_en
+      \endverb
+      \verb{url}
+      \verb https://finance.ec.europa.eu/eu-and-world/equivalence-non-eu-financial-frameworks_en
+      \endverb
+    \endentry
+    \entry{eibis2024Austria}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ed124c2059569d9d63fd29c0f6add645}{%
+           family={{European Investment Bank}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {EIB}%
+      }
+      \strng{namehash}{ed124c2059569d9d63fd29c0f6add645}
+      \strng{fullhash}{ed124c2059569d9d63fd29c0f6add645}
+      \strng{fullhashraw}{ed124c2059569d9d63fd29c0f6add645}
+      \strng{bibnamehash}{ed124c2059569d9d63fd29c0f6add645}
+      \strng{authorbibnamehash}{ed124c2059569d9d63fd29c0f6add645}
+      \strng{authornamehash}{ed124c2059569d9d63fd29c0f6add645}
+      \strng{authorfullhash}{ed124c2059569d9d63fd29c0f6add645}
+      \strng{authorfullhashraw}{ed124c2059569d9d63fd29c0f6add645}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{EIB Investment Survey 2024: Country overview—Austria}
+      \field{type}{Report}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.eib.org/files/documents/lucalli/20240238_econ_eibis_2024_austria_en.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.eib.org/files/documents/lucalli/20240238_econ_eibis_2024_austria_en.pdf
+      \endverb
+    \endentry
+    \entry{esmaArt16}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=18b31650952cc68f7c8a7fd2c70a2bdd}{%
+           family={{European Securities and Markets Authority}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{fullhash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{fullhashraw}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{bibnamehash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{authorbibnamehash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{authornamehash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{authorfullhash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{authorfullhashraw}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MiFID~II, Article 16: Organisational requirements (Interactive Single Rulebook)}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/mifid-ii/article-16-organisational-requirements
+      \endverb
+      \verb{url}
+      \verb https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/mifid-ii/article-16-organisational-requirements
+      \endverb
+    \endentry
+    \entry{esmaArt34}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=18b31650952cc68f7c8a7fd2c70a2bdd}{%
+           family={{European Securities and Markets Authority}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{fullhash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{fullhashraw}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{bibnamehash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{authorbibnamehash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{authornamehash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{authorfullhash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{authorfullhashraw}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MiFID~II, Article 34: Freedom to provide investment services and activities (passporting)}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/mifid-ii/article-34-freedom-provide-investment
+      \endverb
+      \verb{url}
+      \verb https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/mifid-ii/article-34-freedom-provide-investment
+      \endverb
+    \endentry
+    \entry{Faccia2022PermissionedAudit}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9f952274e44fcbd709a41c7165f9ca58}{%
+           family={Faccia},
+           familyi={F\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9f952274e44fcbd709a41c7165f9ca58}
+      \strng{fullhash}{9f952274e44fcbd709a41c7165f9ca58}
+      \strng{fullhashraw}{9f952274e44fcbd709a41c7165f9ca58}
+      \strng{bibnamehash}{9f952274e44fcbd709a41c7165f9ca58}
+      \strng{authorbibnamehash}{9f952274e44fcbd709a41c7165f9ca58}
+      \strng{authornamehash}{9f952274e44fcbd709a41c7165f9ca58}
+      \strng{authorfullhash}{9f952274e44fcbd709a41c7165f9ca58}
+      \strng{authorfullhashraw}{9f952274e44fcbd709a41c7165f9ca58}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Disclosure and Governance}
+      \field{number}{4}
+      \field{title}{Is permissioned blockchain the key to support the external audit process?}
+      \field{volume}{19}
+      \field{year}{2022}
+      \field{pages}{354\bibrangedash 364}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1057/s41310-022-00153-2
+      \endverb
+    \endentry
+    \entry{fedlex_finia}{misc}{}{}
+      \list{organization}{1}{%
+        {Fedlex}%
+      }
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Federal Act on Financial Institutions ({FinIA})}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.fedlex.admin.ch/eli/cc/2018/801/en
+      \endverb
+      \verb{url}
+      \verb https://www.fedlex.admin.ch/eli/cc/2018/801/en
+      \endverb
+    \endentry
+    \entry{fedlex_finsa}{misc}{}{}
+      \list{organization}{1}{%
+        {Fedlex}%
+      }
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Federal Act on Financial Services ({FinSA})}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.fedlex.admin.ch/eli/cc/2019/758/en
+      \endverb
+      \verb{url}
+      \verb https://www.fedlex.admin.ch/eli/cc/2019/758/en
+      \endverb
+    \endentry
+    \entry{fsb2019SME}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=54bcadaf4afd1f4af3e4b4fce04dc499}{%
+           family={{Financial Stability Board}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {FSB}%
+      }
+      \strng{namehash}{54bcadaf4afd1f4af3e4b4fce04dc499}
+      \strng{fullhash}{54bcadaf4afd1f4af3e4b4fce04dc499}
+      \strng{fullhashraw}{54bcadaf4afd1f4af3e4b4fce04dc499}
+      \strng{bibnamehash}{54bcadaf4afd1f4af3e4b4fce04dc499}
+      \strng{authorbibnamehash}{54bcadaf4afd1f4af3e4b4fce04dc499}
+      \strng{authornamehash}{54bcadaf4afd1f4af3e4b4fce04dc499}
+      \strng{authorfullhash}{54bcadaf4afd1f4af3e4b4fce04dc499}
+      \strng{authorfullhashraw}{54bcadaf4afd1f4af3e4b4fce04dc499}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Evaluation of the effects of financial regulatory reforms on {SME} financing}
+      \field{type}{Report}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.fsb.org/wp-content/uploads/P291119-1.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.fsb.org/wp-content/uploads/P291119-1.pdf
+      \endverb
+    \endentry
+    \entry{bisfsi2018Proportionality}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e2245c050925d5056fbf96efe392c944}{%
+           family={{Financial Stability Institute}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Bank for International Settlements}%
+      }
+      \strng{namehash}{e2245c050925d5056fbf96efe392c944}
+      \strng{fullhash}{e2245c050925d5056fbf96efe392c944}
+      \strng{fullhashraw}{e2245c050925d5056fbf96efe392c944}
+      \strng{bibnamehash}{e2245c050925d5056fbf96efe392c944}
+      \strng{authorbibnamehash}{e2245c050925d5056fbf96efe392c944}
+      \strng{authornamehash}{e2245c050925d5056fbf96efe392c944}
+      \strng{authorfullhash}{e2245c050925d5056fbf96efe392c944}
+      \strng{authorfullhashraw}{e2245c050925d5056fbf96efe392c944}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Proportionality in banking regulation: a cross-country comparison}
+      \field{type}{Report}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.bis.org/fsi/publ/insights1.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.bis.org/fsi/publ/insights1.pdf
+      \endverb
+    \endentry
+    \entry{austria_wag2018}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=508d693052df4e5a349ecfb775f43401}{%
+           family={{Finanzmarktaufsicht (FMA)}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{508d693052df4e5a349ecfb775f43401}
+      \strng{fullhash}{508d693052df4e5a349ecfb775f43401}
+      \strng{fullhashraw}{508d693052df4e5a349ecfb775f43401}
+      \strng{bibnamehash}{508d693052df4e5a349ecfb775f43401}
+      \strng{authorbibnamehash}{508d693052df4e5a349ecfb775f43401}
+      \strng{authornamehash}{508d693052df4e5a349ecfb775f43401}
+      \strng{authorfullhash}{508d693052df4e5a349ecfb775f43401}
+      \strng{authorfullhashraw}{508d693052df4e5a349ecfb775f43401}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Check against official RIS version}
+      \field{title}{Securities Supervision Act 2018 ({WAG} 2018) [convenience translation]}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.fma.gv.at/wp-content/plugins/dw-fma/download.php?d=2085
+      \endverb
+      \verb{url}
+      \verb https://www.fma.gv.at/wp-content/plugins/dw-fma/download.php?d=2085
+      \endverb
+    \endentry
+    \entry{fmaIntegrated}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=508d693052df4e5a349ecfb775f43401}{%
+           family={{Finanzmarktaufsicht (FMA)}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{508d693052df4e5a349ecfb775f43401}
+      \strng{fullhash}{508d693052df4e5a349ecfb775f43401}
+      \strng{fullhashraw}{508d693052df4e5a349ecfb775f43401}
+      \strng{bibnamehash}{508d693052df4e5a349ecfb775f43401}
+      \strng{authorbibnamehash}{508d693052df4e5a349ecfb775f43401}
+      \strng{authornamehash}{508d693052df4e5a349ecfb775f43401}
+      \strng{authorfullhash}{508d693052df4e5a349ecfb775f43401}
+      \strng{authorfullhashraw}{508d693052df4e5a349ecfb775f43401}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Financial market supervision in Austria (integrated model)}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.fma.gv.at/en/financial-market-supervision-in-austria/
+      \endverb
+      \verb{url}
+      \verb https://www.fma.gv.at/en/financial-market-supervision-in-austria/
+      \endverb
+    \endentry
+    \entry{finmaLegalBasis}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a084ed0fde472a7fe4917c5098c115fd}{%
+           family={{FINMA}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{a084ed0fde472a7fe4917c5098c115fd}
+      \strng{fullhash}{a084ed0fde472a7fe4917c5098c115fd}
+      \strng{fullhashraw}{a084ed0fde472a7fe4917c5098c115fd}
+      \strng{bibnamehash}{a084ed0fde472a7fe4917c5098c115fd}
+      \strng{authorbibnamehash}{a084ed0fde472a7fe4917c5098c115fd}
+      \strng{authornamehash}{a084ed0fde472a7fe4917c5098c115fd}
+      \strng{authorfullhash}{a084ed0fde472a7fe4917c5098c115fd}
+      \strng{authorfullhashraw}{a084ed0fde472a7fe4917c5098c115fd}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{FINMA’s legal basis (Financial Market Supervision Act and sectoral laws)}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.finma.ch/en/documentation/finma-s-legal-basis/
+      \endverb
+      \verb{url}
+      \verb https://www.finma.ch/en/documentation/finma-s-legal-basis/
+      \endverb
+    \endentry
+    \entry{germany_kwg}{misc}{}{}
+      \list{organization}{1}{%
+        {Gesetze im Internet (BMJ/Bundesanzeiger Verlag)}%
+      }
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Gesetz über das Kreditwesen ({KWG})}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.gesetze-im-internet.de/kredwg/
+      \endverb
+      \verb{url}
+      \verb https://www.gesetze-im-internet.de/kredwg/
+      \endverb
+    \endentry
+    \entry{Hambly2021RLFinance}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=49bf8fc56854bf0c0902b1d7af12f355}{%
+           family={Hambly},
+           familyi={H\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=83b108c1ae00aae3bc551e97c72ae5fb}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ac1e6d4937144cc9688db204fbb7e17}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5280997e17def0e7f4398ad8a968a26d}
+      \strng{fullhash}{6f6f464e672bbecfac0623ae76c6e84d}
+      \strng{fullhashraw}{6f6f464e672bbecfac0623ae76c6e84d}
+      \strng{bibnamehash}{6f6f464e672bbecfac0623ae76c6e84d}
+      \strng{authorbibnamehash}{6f6f464e672bbecfac0623ae76c6e84d}
+      \strng{authornamehash}{5280997e17def0e7f4398ad8a968a26d}
+      \strng{authorfullhash}{6f6f464e672bbecfac0623ae76c6e84d}
+      \strng{authorfullhashraw}{6f6f464e672bbecfac0623ae76c6e84d}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematical Finance}
+      \field{number}{3}
+      \field{title}{Recent advances in reinforcement learning in finance}
+      \field{volume}{31}
+      \field{year}{2021}
+      \field{pages}{782\bibrangedash 813}
+      \range{pages}{32}
+      \verb{doi}
+      \verb 10.1111/mafi.12315
+      \endverb
+    \endentry
+    \entry{Kurz2025FMAAustria}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=592562982e53f663d0c53c014b6f02c0}{%
+           family={Kurz},
+           familyi={K\bibinitperiod},
+           given={Walter},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a789f682e23832e2e948508d23be99f}{%
+           family={Magg},
+           familyi={M\bibinitperiod},
+           given={Reinhard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9fd6ad2f9f92b03239096c231b8e749c}{%
+           family={Stromeyer},
+           familyi={S\bibinitperiod},
+           given={Konrad},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{ec3e2b1cd9437e7da0fef6a18293aa93}
+      \strng{fullhash}{8d2e045f9e2f3a307e10d0bd45368d39}
+      \strng{fullhashraw}{8d2e045f9e2f3a307e10d0bd45368d39}
+      \strng{bibnamehash}{8d2e045f9e2f3a307e10d0bd45368d39}
+      \strng{authorbibnamehash}{8d2e045f9e2f3a307e10d0bd45368d39}
+      \strng{authornamehash}{ec3e2b1cd9437e7da0fef6a18293aa93}
+      \strng{authorfullhash}{8d2e045f9e2f3a307e10d0bd45368d39}
+      \strng{authorfullhashraw}{8d2e045f9e2f3a307e10d0bd45368d39}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{3075-2868}
+      \field{journaltitle}{Journal of Next-Generation Research 5.0}
+      \field{number}{4}
+      \field{title}{Financial and Operational Impacts of Regulatory Compliance on the Austrian Securities Industry}
+      \field{volume}{1}
+      \field{year}{2025}
+      \field{pages}{137}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.70792/jngr5.0.v1i5.137
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.70792/jngr5.0.v1i5.137
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.70792/jngr5.0.v1i5.137
+      \endverb
+    \endentry
+    \entry{Malibari2023RLFintech}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9483c5798b4458a7f8e34c7fe51f88bb}{%
+           family={Malibari},
+           familyi={M\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b259694a635d19d1526e88623b5eab8f}{%
+           family={Katib},
+           familyi={K\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52f3ce1855f821640884add803082683}{%
+           family={Mehmood},
+           familyi={M\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{51e5ffcc442e9ee166ea49bc9392bc2a}
+      \strng{fullhash}{d04ef65c39a9310893bfa1475d3d4d32}
+      \strng{fullhashraw}{d04ef65c39a9310893bfa1475d3d4d32}
+      \strng{bibnamehash}{d04ef65c39a9310893bfa1475d3d4d32}
+      \strng{authorbibnamehash}{d04ef65c39a9310893bfa1475d3d4d32}
+      \strng{authornamehash}{51e5ffcc442e9ee166ea49bc9392bc2a}
+      \strng{authorfullhash}{d04ef65c39a9310893bfa1475d3d4d32}
+      \strng{authorfullhashraw}{d04ef65c39a9310893bfa1475d3d4d32}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cloud Computing}
+      \field{number}{1}
+      \field{title}{Systematic review on reinforcement learning in the field of FinTech}
+      \field{volume}{12}
+      \field{year}{2023}
+      \field{pages}{1\bibrangedash 34}
+      \range{pages}{34}
+      \verb{doi}
+      \verb 10.1186/s13677-023-00449-1
+      \endverb
+    \endentry
+    \entry{gdpr_2016}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) 2016/679 on the protection of natural persons with regard to the processing of personal data ({GDPR})}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2016/679/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2016/679/oj
+      \endverb
+    \endentry
+    \entry{dora_2022}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) 2022/2554 on digital operational resilience for the financial sector ({DORA})}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2022/2554/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2022/2554/oj
+      \endverb
+    \endentry
+    \entry{mica_2023}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) 2023/1114 on markets in crypto-assets ({MiCA})}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2023/1114/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2023/1114/oj
+      \endverb
+    \endentry
+    \entry{crr2013}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) No 575/2013 on prudential requirements for credit institutions and investment firms ({CRR})}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2013/575/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2013/575/oj
+      \endverb
+    \endentry
+    \entry{mifir_2014}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) No 600/2014 on markets in financial instruments ({MiFIR})}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2014/600/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2014/600/oj
+      \endverb
+    \endentry
+    \entry{emir_2012}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) No 648/2012 on OTC derivatives, central counterparties and trade repositories ({EMIR})}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2012/648/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2012/648/oj
+      \endverb
+    \endentry
+    \entry{csdr_2014}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) No 909/2014 on improving securities settlement in the European Union and on central securities depositories ({CSDR})}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2014/909/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2014/909/oj
+      \endverb
+    \endentry
+    \entry{IJITMIS2025BPMAudit}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b8812d5710d5f4148ed606f77dbbd8a4}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=40faa1bc69980517511d12eb5ab3c8bb}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{56cd71cd8a99ae41fc59cc9a8db4a09d}
+      \strng{fullhash}{56cd71cd8a99ae41fc59cc9a8db4a09d}
+      \strng{fullhashraw}{56cd71cd8a99ae41fc59cc9a8db4a09d}
+      \strng{bibnamehash}{56cd71cd8a99ae41fc59cc9a8db4a09d}
+      \strng{authorbibnamehash}{56cd71cd8a99ae41fc59cc9a8db4a09d}
+      \strng{authornamehash}{56cd71cd8a99ae41fc59cc9a8db4a09d}
+      \strng{authorfullhash}{56cd71cd8a99ae41fc59cc9a8db4a09d}
+      \strng{authorfullhashraw}{56cd71cd8a99ae41fc59cc9a8db4a09d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Information Technology \& Management Information Systems}
+      \field{title}{Ensuring data integrity and auditability in BPM systems: A blockchain-based approach}
+      \field{year}{2025}
+    \endentry
+    \entry{DORA_Skadden2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=80f1a2a7be43d4a2820803e9edb6bc9c}{%
+           family={{Skadden}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{80f1a2a7be43d4a2820803e9edb6bc9c}
+      \strng{fullhash}{80f1a2a7be43d4a2820803e9edb6bc9c}
+      \strng{fullhashraw}{80f1a2a7be43d4a2820803e9edb6bc9c}
+      \strng{bibnamehash}{80f1a2a7be43d4a2820803e9edb6bc9c}
+      \strng{authorbibnamehash}{80f1a2a7be43d4a2820803e9edb6bc9c}
+      \strng{authornamehash}{80f1a2a7be43d4a2820803e9edb6bc9c}
+      \strng{authorfullhash}{80f1a2a7be43d4a2820803e9edb6bc9c}
+      \strng{authorfullhashraw}{80f1a2a7be43d4a2820803e9edb6bc9c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.skadden.com/insights/publications/2024/07/the-eus-digital-operational-resilience-act}}
+      \field{note}{Analysis of ICT risk requirements under DORA}
+      \field{title}{The EU's Digital Operational Resilience Act ({DORA})}
+      \field{year}{2024}
+    \endentry
+    \entry{Sun2025MultiAgentHDRL}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ff7a7e41b9c49df9a1842bbf5c867ffb}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ff7a7e41b9c49df9a1842bbf5c867ffb}
+      \strng{fullhash}{ff7a7e41b9c49df9a1842bbf5c867ffb}
+      \strng{fullhashraw}{ff7a7e41b9c49df9a1842bbf5c867ffb}
+      \strng{bibnamehash}{ff7a7e41b9c49df9a1842bbf5c867ffb}
+      \strng{authorbibnamehash}{ff7a7e41b9c49df9a1842bbf5c867ffb}
+      \strng{authornamehash}{ff7a7e41b9c49df9a1842bbf5c867ffb}
+      \strng{authorfullhash}{ff7a7e41b9c49df9a1842bbf5c867ffb}
+      \strng{authorfullhashraw}{ff7a7e41b9c49df9a1842bbf5c867ffb}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Finance and Computation}
+      \field{title}{A novel multi-agent hierarchical deep reinforcement learning framework for portfolio optimization}
+      \field{year}{2025}
+    \endentry
+    \entry{sifEU2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ca3c05496176ce2f5cf8a3fedaa8993f}{%
+           family={{Swiss State Secretariat for International Finance (SIF)}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ca3c05496176ce2f5cf8a3fedaa8993f}
+      \strng{fullhash}{ca3c05496176ce2f5cf8a3fedaa8993f}
+      \strng{fullhashraw}{ca3c05496176ce2f5cf8a3fedaa8993f}
+      \strng{bibnamehash}{ca3c05496176ce2f5cf8a3fedaa8993f}
+      \strng{authorbibnamehash}{ca3c05496176ce2f5cf8a3fedaa8993f}
+      \strng{authornamehash}{ca3c05496176ce2f5cf8a3fedaa8993f}
+      \strng{authorfullhash}{ca3c05496176ce2f5cf8a3fedaa8993f}
+      \strng{authorfullhashraw}{ca3c05496176ce2f5cf8a3fedaa8993f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{European Union: Market access and equivalence}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.sif.admin.ch/en/european-union-eu
+      \endverb
+      \verb{url}
+      \verb https://www.sif.admin.ch/en/european-union-eu
+      \endverb
+    \endentry
+    \entry{germany_wphg}{misc}{}{}
+      \list{organization}{1}{%
+        {Gesetze im Internet (BMJ/Bundesanzeiger Verlag)}%
+      }
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Wertpapierhandelsgesetz ({WpHG})}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.gesetze-im-internet.de/wphg/
+      \endverb
+      \verb{url}
+      \verb https://www.gesetze-im-internet.de/wphg/
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{Ali2021AuditLogSurvey}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3a38e3aa72b7b31891ae1014817b0692}{%
+           family={Ali},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=94b628f569d3886f2a02e3b021554b23}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5faa0905ce9e85252fbed0529647d36d}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{22c377a9cc8ab271193ab9fe0b783998}
+      \strng{fullhash}{cedb3f2935e57cb5d44a91fecfbde4b2}
+      \strng{fullhashraw}{cedb3f2935e57cb5d44a91fecfbde4b2}
+      \strng{bibnamehash}{cedb3f2935e57cb5d44a91fecfbde4b2}
+      \strng{authorbibnamehash}{cedb3f2935e57cb5d44a91fecfbde4b2}
+      \strng{authornamehash}{22c377a9cc8ab271193ab9fe0b783998}
+      \strng{authorfullhash}{cedb3f2935e57cb5d44a91fecfbde4b2}
+      \strng{authorfullhashraw}{cedb3f2935e57cb5d44a91fecfbde4b2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Security and Privacy}
+      \field{number}{3}
+      \field{title}{Audit logs management and security: a survey}
+      \field{volume}{4}
+      \field{year}{2021}
+      \field{pages}{e155}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1002/spy2.155
+      \endverb
+    \endentry
+    \entry{claudecode2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f431db65cea024a5f19eab835afefee2}{%
+           family={{Anthropic}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f431db65cea024a5f19eab835afefee2}
+      \strng{fullhash}{f431db65cea024a5f19eab835afefee2}
+      \strng{fullhashraw}{f431db65cea024a5f19eab835afefee2}
+      \strng{bibnamehash}{f431db65cea024a5f19eab835afefee2}
+      \strng{authorbibnamehash}{f431db65cea024a5f19eab835afefee2}
+      \strng{authornamehash}{f431db65cea024a5f19eab835afefee2}
+      \strng{authorfullhash}{f431db65cea024a5f19eab835afefee2}
+      \strng{authorfullhashraw}{f431db65cea024a5f19eab835afefee2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.anthropic.com/index/claude-code}}
+      \field{note}{Accessed 17 August 2025}
+      \field{title}{Claude Code}
+      \field{year}{2024}
+    \endentry
+    \entry{Arham2025AIBlockchainAudit}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=613e6ec135b779ef073ecd8e37bd1f88}{%
+           family={Arham},
+           familyi={A\bibinitperiod},
+           given={M.\bibnamedelimi W.},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{613e6ec135b779ef073ecd8e37bd1f88}
+      \strng{fullhash}{613e6ec135b779ef073ecd8e37bd1f88}
+      \strng{fullhashraw}{613e6ec135b779ef073ecd8e37bd1f88}
+      \strng{bibnamehash}{613e6ec135b779ef073ecd8e37bd1f88}
+      \strng{authorbibnamehash}{613e6ec135b779ef073ecd8e37bd1f88}
+      \strng{authornamehash}{613e6ec135b779ef073ecd8e37bd1f88}
+      \strng{authorfullhash}{613e6ec135b779ef073ecd8e37bd1f88}
+      \strng{authorfullhashraw}{613e6ec135b779ef073ecd8e37bd1f88}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Industrial and Business Management}
+      \field{number}{2}
+      \field{title}{Transforming auditing through AI and blockchain}
+      \field{volume}{15}
+      \field{year}{2025}
+      \field{pages}{225\bibrangedash 241}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.4236/ajibm.2025.152011
+      \endverb
+    \endentry
+    \entry{bafin_wphg}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=01d64d44c653417b7756e64da3af192d}{%
+           family={{BaFin}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{01d64d44c653417b7756e64da3af192d}
+      \strng{fullhash}{01d64d44c653417b7756e64da3af192d}
+      \strng{fullhashraw}{01d64d44c653417b7756e64da3af192d}
+      \strng{bibnamehash}{01d64d44c653417b7756e64da3af192d}
+      \strng{authorbibnamehash}{01d64d44c653417b7756e64da3af192d}
+      \strng{authornamehash}{01d64d44c653417b7756e64da3af192d}
+      \strng{authorfullhash}{01d64d44c653417b7756e64da3af192d}
+      \strng{authorfullhashraw}{01d64d44c653417b7756e64da3af192d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Securities Trading Act ({WpHG})—overview}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Aufsichtsrecht/Gesetz/WpHG_en.html
+      \endverb
+      \verb{url}
+      \verb https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Aufsichtsrecht/Gesetz/WpHG_en.html
+      \endverb
+    \endentry
+    \entry{bisIBS2025}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0c39aae51737b6bfb6c5b9de5963c7bf}{%
+           family={{Bank for International Settlements}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {BIS}%
+      }
+      \strng{namehash}{0c39aae51737b6bfb6c5b9de5963c7bf}
+      \strng{fullhash}{0c39aae51737b6bfb6c5b9de5963c7bf}
+      \strng{fullhashraw}{0c39aae51737b6bfb6c5b9de5963c7bf}
+      \strng{bibnamehash}{0c39aae51737b6bfb6c5b9de5963c7bf}
+      \strng{authorbibnamehash}{0c39aae51737b6bfb6c5b9de5963c7bf}
+      \strng{authornamehash}{0c39aae51737b6bfb6c5b9de5963c7bf}
+      \strng{authorfullhash}{0c39aae51737b6bfb6c5b9de5963c7bf}
+      \strng{authorfullhashraw}{0c39aae51737b6bfb6c5b9de5963c7bf}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{BIS international banking statistics and global liquidity indicators at end-September 2024}
+      \field{type}{Report}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.bis.org/statistics/rppb2501.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.bis.org/statistics/rppb2501.pdf
+      \endverb
+    \endentry
+    \entry{austria_bwg}{misc}{}{}
+      \list{organization}{1}{%
+        {RIS Bundeskanzleramt}%
+      }
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Bankwesengesetz ({BWG})}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004827
+      \endverb
+      \verb{url}
+      \verb https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004827
+      \endverb
+    \endentry
+    \entry{Cheng2024MultiagentRL}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=20e4673936a7ed1403cd4bffdb1d85b7}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={L.\bibnamedelimi C.},
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{20e4673936a7ed1403cd4bffdb1d85b7}
+      \strng{fullhash}{20e4673936a7ed1403cd4bffdb1d85b7}
+      \strng{fullhashraw}{20e4673936a7ed1403cd4bffdb1d85b7}
+      \strng{bibnamehash}{20e4673936a7ed1403cd4bffdb1d85b7}
+      \strng{authorbibnamehash}{20e4673936a7ed1403cd4bffdb1d85b7}
+      \strng{authornamehash}{20e4673936a7ed1403cd4bffdb1d85b7}
+      \strng{authorfullhash}{20e4673936a7ed1403cd4bffdb1d85b7}
+      \strng{authorfullhashraw}{20e4673936a7ed1403cd4bffdb1d85b7}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Artificial Intelligence in Finance}
+      \field{title}{Multi-agent based deep reinforcement learning framework for trading strategy and portfolio management}
+      \field{year}{2024}
+    \endentry
+    \entry{delReg2017_565}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Commission Delegated Regulation (EU) 2017/565 supplementing Directive 2014/65/EU}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0565
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0565
+      \endverb
+    \endentry
+    \entry{its2021451}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Commission Implementing Regulation (EU) 2021/451 laying down {ITS} for supervisory reporting under the {CRR}}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg_impl/2021/451/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg_impl/2021/451/oj
+      \endverb
+    \endentry
+    \entry{psd2_2015}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive (EU) 2015/2366 on payment services in the internal market ({PSD2})}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/dir/2015/2366/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/dir/2015/2366/oj
+      \endverb
+    \endentry
+    \entry{amld4_2015}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive (EU) 2015/849 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing (4{AMLD})}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/dir/2015/849/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/dir/2015/849/oj
+      \endverb
+    \endentry
+    \entry{amld5_2018}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive (EU) 2018/843 amending Directive (EU) 2015/849 (5{AMLD})}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/dir/2018/843/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/dir/2018/843/oj
+      \endverb
+    \endentry
+    \entry{emd2_2009}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive 2009/110/EC on the taking up, pursuit and prudential supervision of the business of electronic money institutions ({EMD~II})}
+      \field{year}{2009}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/dir/2009/110/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/dir/2009/110/oj
+      \endverb
+    \endentry
+    \entry{solvency2_2009}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive 2009/138/EC on the taking-up and pursuit of the business of insurance and reinsurance ({Solvency~II})}
+      \field{year}{2009}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/dir/2009/138/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/dir/2009/138/oj
+      \endverb
+    \endentry
+    \entry{ucits_2009}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive 2009/65/EC on undertakings for collective investment in transferable securities ({UCITS})}
+      \field{year}{2009}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/dir/2009/65/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/dir/2009/65/oj
+      \endverb
+    \endentry
+    \entry{aifmd_2011}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive 2011/61/EU on Alternative Investment Fund Managers ({AIFMD})}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/dir/2011/61/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/dir/2011/61/oj
+      \endverb
+    \endentry
+    \entry{crd2013}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive 2013/36/EU on access to the activity of credit institutions and the prudential supervision of credit institutions ({CRD})}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/dir/2013/36/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/dir/2013/36/oj
+      \endverb
+    \endentry
+    \entry{mifid2_2014}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Directive 2014/65/EU on markets in financial instruments ({MiFID~II})}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/dir/2014/65/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/dir/2014/65/oj
+      \endverb
+    \endentry
+    \entry{efamaFactbook2025}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b3f1abab5cf28b4bf1e2b7fc2e3e24ca}{%
+           family={{EFAMA}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {European Fund}%
+        {Asset Management Association}%
+      }
+      \strng{namehash}{b3f1abab5cf28b4bf1e2b7fc2e3e24ca}
+      \strng{fullhash}{b3f1abab5cf28b4bf1e2b7fc2e3e24ca}
+      \strng{fullhashraw}{b3f1abab5cf28b4bf1e2b7fc2e3e24ca}
+      \strng{bibnamehash}{b3f1abab5cf28b4bf1e2b7fc2e3e24ca}
+      \strng{authorbibnamehash}{b3f1abab5cf28b4bf1e2b7fc2e3e24ca}
+      \strng{authornamehash}{b3f1abab5cf28b4bf1e2b7fc2e3e24ca}
+      \strng{authorfullhash}{b3f1abab5cf28b4bf1e2b7fc2e3e24ca}
+      \strng{authorfullhashraw}{b3f1abab5cf28b4bf1e2b7fc2e3e24ca}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Trends in European investment funds: Fact Book 2025}
+      \field{type}{Report}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.efama.org/sites/default/files/fact-book-2025_lowres.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.efama.org/sites/default/files/fact-book-2025_lowres.pdf
+      \endverb
+    \endentry
+    \entry{DORA_EIOPA2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fa985e82ac6111d69e0240b42a80b775}{%
+           family={{EIOPA}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{fa985e82ac6111d69e0240b42a80b775}
+      \strng{fullhash}{fa985e82ac6111d69e0240b42a80b775}
+      \strng{fullhashraw}{fa985e82ac6111d69e0240b42a80b775}
+      \strng{bibnamehash}{fa985e82ac6111d69e0240b42a80b775}
+      \strng{authorbibnamehash}{fa985e82ac6111d69e0240b42a80b775}
+      \strng{authornamehash}{fa985e82ac6111d69e0240b42a80b775}
+      \strng{authorfullhash}{fa985e82ac6111d69e0240b42a80b775}
+      \strng{authorfullhashraw}{fa985e82ac6111d69e0240b42a80b775}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.eiopa.europa.eu/digital-operational-resilience-act-dora_en}}
+      \field{note}{Overview of DORA measures and scope}
+      \field{title}{Digital Operational Resilience Act ({DORA})}
+      \field{year}{2025}
+    \endentry
+    \entry{ebaPSD2Art28}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ba197b16851253ee9be33302bae6fcdd}{%
+           family={{European Banking Authority}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{fullhash}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{fullhashraw}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{bibnamehash}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{authorbibnamehash}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{authornamehash}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{authorfullhash}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{authorfullhashraw}{ba197b16851253ee9be33302bae6fcdd}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PSD2, Article 28: Application to exercise the right of establishment and freedom to provide services}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.eba.europa.eu/regulation-and-policy/single-rulebook/interactive-single-rulebook/16236
+      \endverb
+      \verb{url}
+      \verb https://www.eba.europa.eu/regulation-and-policy/single-rulebook/interactive-single-rulebook/16236
+      \endverb
+    \endentry
+    \entry{EBA_RTS2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ba197b16851253ee9be33302bae6fcdd}{%
+           family={{European Banking Authority}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{fullhash}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{fullhashraw}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{bibnamehash}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{authorbibnamehash}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{authornamehash}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{authorfullhash}{ba197b16851253ee9be33302bae6fcdd}
+      \strng{authorfullhashraw}{ba197b16851253ee9be33302bae6fcdd}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.eba.europa.eu/activities/single-rulebook/regulatory-activities/operational-resilience/regulatory-technical-standards-policy-ict-services-supporting-critical-or-important-functions}}
+      \field{note}{DORA RTS on ICT third-party risk governance}
+      \field{title}{Regulatory Technical Standards on ICT services supporting critical or important functions}
+      \field{year}{2024}
+    \endentry
+    \entry{ecbFISEA2024}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fc0835c66c6644c8a6ca0239bce9cc73}{%
+           family={{European Central Bank}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {ECB}%
+      }
+      \strng{namehash}{fc0835c66c6644c8a6ca0239bce9cc73}
+      \strng{fullhash}{fc0835c66c6644c8a6ca0239bce9cc73}
+      \strng{fullhashraw}{fc0835c66c6644c8a6ca0239bce9cc73}
+      \strng{bibnamehash}{fc0835c66c6644c8a6ca0239bce9cc73}
+      \strng{authorbibnamehash}{fc0835c66c6644c8a6ca0239bce9cc73}
+      \strng{authornamehash}{fc0835c66c6644c8a6ca0239bce9cc73}
+      \strng{authorfullhash}{fc0835c66c6644c8a6ca0239bce9cc73}
+      \strng{authorfullhashraw}{fc0835c66c6644c8a6ca0239bce9cc73}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Financial integration and structure in the euro area}
+      \field{type}{Report}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.ecb.europa.eu/pub/pdf/fie/ecb.fie202406.en.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.ecb.europa.eu/pub/pdf/fie/ecb.fie202406.en.pdf
+      \endverb
+    \endentry
+    \entry{ec_equivalence}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhashraw}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Equivalence of non-EU financial frameworks: overview and list of decisions}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://finance.ec.europa.eu/eu-and-world/equivalence-non-eu-financial-frameworks_en
+      \endverb
+      \verb{url}
+      \verb https://finance.ec.europa.eu/eu-and-world/equivalence-non-eu-financial-frameworks_en
+      \endverb
+    \endentry
+    \entry{eibis2024Austria}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ed124c2059569d9d63fd29c0f6add645}{%
+           family={{European Investment Bank}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {EIB}%
+      }
+      \strng{namehash}{ed124c2059569d9d63fd29c0f6add645}
+      \strng{fullhash}{ed124c2059569d9d63fd29c0f6add645}
+      \strng{fullhashraw}{ed124c2059569d9d63fd29c0f6add645}
+      \strng{bibnamehash}{ed124c2059569d9d63fd29c0f6add645}
+      \strng{authorbibnamehash}{ed124c2059569d9d63fd29c0f6add645}
+      \strng{authornamehash}{ed124c2059569d9d63fd29c0f6add645}
+      \strng{authorfullhash}{ed124c2059569d9d63fd29c0f6add645}
+      \strng{authorfullhashraw}{ed124c2059569d9d63fd29c0f6add645}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{EIB Investment Survey 2024: Country overview—Austria}
+      \field{type}{Report}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.eib.org/files/documents/lucalli/20240238_econ_eibis_2024_austria_en.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.eib.org/files/documents/lucalli/20240238_econ_eibis_2024_austria_en.pdf
+      \endverb
+    \endentry
+    \entry{esmaArt16}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=18b31650952cc68f7c8a7fd2c70a2bdd}{%
+           family={{European Securities and Markets Authority}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{fullhash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{fullhashraw}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{bibnamehash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{authorbibnamehash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{authornamehash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{authorfullhash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{authorfullhashraw}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MiFID~II, Article 16: Organisational requirements (Interactive Single Rulebook)}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/mifid-ii/article-16-organisational-requirements
+      \endverb
+      \verb{url}
+      \verb https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/mifid-ii/article-16-organisational-requirements
+      \endverb
+    \endentry
+    \entry{esmaArt34}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=18b31650952cc68f7c8a7fd2c70a2bdd}{%
+           family={{European Securities and Markets Authority}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{fullhash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{fullhashraw}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{bibnamehash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{authorbibnamehash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{authornamehash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{authorfullhash}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \strng{authorfullhashraw}{18b31650952cc68f7c8a7fd2c70a2bdd}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MiFID~II, Article 34: Freedom to provide investment services and activities (passporting)}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/mifid-ii/article-34-freedom-provide-investment
+      \endverb
+      \verb{url}
+      \verb https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/mifid-ii/article-34-freedom-provide-investment
+      \endverb
+    \endentry
+    \entry{Faccia2022PermissionedAudit}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9f952274e44fcbd709a41c7165f9ca58}{%
+           family={Faccia},
+           familyi={F\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9f952274e44fcbd709a41c7165f9ca58}
+      \strng{fullhash}{9f952274e44fcbd709a41c7165f9ca58}
+      \strng{fullhashraw}{9f952274e44fcbd709a41c7165f9ca58}
+      \strng{bibnamehash}{9f952274e44fcbd709a41c7165f9ca58}
+      \strng{authorbibnamehash}{9f952274e44fcbd709a41c7165f9ca58}
+      \strng{authornamehash}{9f952274e44fcbd709a41c7165f9ca58}
+      \strng{authorfullhash}{9f952274e44fcbd709a41c7165f9ca58}
+      \strng{authorfullhashraw}{9f952274e44fcbd709a41c7165f9ca58}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Disclosure and Governance}
+      \field{number}{4}
+      \field{title}{Is permissioned blockchain the key to support the external audit process?}
+      \field{volume}{19}
+      \field{year}{2022}
+      \field{pages}{354\bibrangedash 364}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1057/s41310-022-00153-2
+      \endverb
+    \endentry
+    \entry{fedlex_finia}{misc}{}{}
+      \list{organization}{1}{%
+        {Fedlex}%
+      }
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Federal Act on Financial Institutions ({FinIA})}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.fedlex.admin.ch/eli/cc/2018/801/en
+      \endverb
+      \verb{url}
+      \verb https://www.fedlex.admin.ch/eli/cc/2018/801/en
+      \endverb
+    \endentry
+    \entry{fedlex_finsa}{misc}{}{}
+      \list{organization}{1}{%
+        {Fedlex}%
+      }
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Federal Act on Financial Services ({FinSA})}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.fedlex.admin.ch/eli/cc/2019/758/en
+      \endverb
+      \verb{url}
+      \verb https://www.fedlex.admin.ch/eli/cc/2019/758/en
+      \endverb
+    \endentry
+    \entry{fsb2019SME}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=54bcadaf4afd1f4af3e4b4fce04dc499}{%
+           family={{Financial Stability Board}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {FSB}%
+      }
+      \strng{namehash}{54bcadaf4afd1f4af3e4b4fce04dc499}
+      \strng{fullhash}{54bcadaf4afd1f4af3e4b4fce04dc499}
+      \strng{fullhashraw}{54bcadaf4afd1f4af3e4b4fce04dc499}
+      \strng{bibnamehash}{54bcadaf4afd1f4af3e4b4fce04dc499}
+      \strng{authorbibnamehash}{54bcadaf4afd1f4af3e4b4fce04dc499}
+      \strng{authornamehash}{54bcadaf4afd1f4af3e4b4fce04dc499}
+      \strng{authorfullhash}{54bcadaf4afd1f4af3e4b4fce04dc499}
+      \strng{authorfullhashraw}{54bcadaf4afd1f4af3e4b4fce04dc499}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Evaluation of the effects of financial regulatory reforms on {SME} financing}
+      \field{type}{Report}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.fsb.org/wp-content/uploads/P291119-1.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.fsb.org/wp-content/uploads/P291119-1.pdf
+      \endverb
+    \endentry
+    \entry{bisfsi2018Proportionality}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e2245c050925d5056fbf96efe392c944}{%
+           family={{Financial Stability Institute}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Bank for International Settlements}%
+      }
+      \strng{namehash}{e2245c050925d5056fbf96efe392c944}
+      \strng{fullhash}{e2245c050925d5056fbf96efe392c944}
+      \strng{fullhashraw}{e2245c050925d5056fbf96efe392c944}
+      \strng{bibnamehash}{e2245c050925d5056fbf96efe392c944}
+      \strng{authorbibnamehash}{e2245c050925d5056fbf96efe392c944}
+      \strng{authornamehash}{e2245c050925d5056fbf96efe392c944}
+      \strng{authorfullhash}{e2245c050925d5056fbf96efe392c944}
+      \strng{authorfullhashraw}{e2245c050925d5056fbf96efe392c944}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Proportionality in banking regulation: a cross-country comparison}
+      \field{type}{Report}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.bis.org/fsi/publ/insights1.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.bis.org/fsi/publ/insights1.pdf
+      \endverb
+    \endentry
+    \entry{austria_wag2018}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=508d693052df4e5a349ecfb775f43401}{%
+           family={{Finanzmarktaufsicht (FMA)}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{508d693052df4e5a349ecfb775f43401}
+      \strng{fullhash}{508d693052df4e5a349ecfb775f43401}
+      \strng{fullhashraw}{508d693052df4e5a349ecfb775f43401}
+      \strng{bibnamehash}{508d693052df4e5a349ecfb775f43401}
+      \strng{authorbibnamehash}{508d693052df4e5a349ecfb775f43401}
+      \strng{authornamehash}{508d693052df4e5a349ecfb775f43401}
+      \strng{authorfullhash}{508d693052df4e5a349ecfb775f43401}
+      \strng{authorfullhashraw}{508d693052df4e5a349ecfb775f43401}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Check against official RIS version}
+      \field{title}{Securities Supervision Act 2018 ({WAG} 2018) [convenience translation]}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.fma.gv.at/wp-content/plugins/dw-fma/download.php?d=2085
+      \endverb
+      \verb{url}
+      \verb https://www.fma.gv.at/wp-content/plugins/dw-fma/download.php?d=2085
+      \endverb
+    \endentry
+    \entry{fmaIntegrated}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=508d693052df4e5a349ecfb775f43401}{%
+           family={{Finanzmarktaufsicht (FMA)}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{508d693052df4e5a349ecfb775f43401}
+      \strng{fullhash}{508d693052df4e5a349ecfb775f43401}
+      \strng{fullhashraw}{508d693052df4e5a349ecfb775f43401}
+      \strng{bibnamehash}{508d693052df4e5a349ecfb775f43401}
+      \strng{authorbibnamehash}{508d693052df4e5a349ecfb775f43401}
+      \strng{authornamehash}{508d693052df4e5a349ecfb775f43401}
+      \strng{authorfullhash}{508d693052df4e5a349ecfb775f43401}
+      \strng{authorfullhashraw}{508d693052df4e5a349ecfb775f43401}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Financial market supervision in Austria (integrated model)}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.fma.gv.at/en/financial-market-supervision-in-austria/
+      \endverb
+      \verb{url}
+      \verb https://www.fma.gv.at/en/financial-market-supervision-in-austria/
+      \endverb
+    \endentry
+    \entry{finmaLegalBasis}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a084ed0fde472a7fe4917c5098c115fd}{%
+           family={{FINMA}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{a084ed0fde472a7fe4917c5098c115fd}
+      \strng{fullhash}{a084ed0fde472a7fe4917c5098c115fd}
+      \strng{fullhashraw}{a084ed0fde472a7fe4917c5098c115fd}
+      \strng{bibnamehash}{a084ed0fde472a7fe4917c5098c115fd}
+      \strng{authorbibnamehash}{a084ed0fde472a7fe4917c5098c115fd}
+      \strng{authornamehash}{a084ed0fde472a7fe4917c5098c115fd}
+      \strng{authorfullhash}{a084ed0fde472a7fe4917c5098c115fd}
+      \strng{authorfullhashraw}{a084ed0fde472a7fe4917c5098c115fd}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{FINMA’s legal basis (Financial Market Supervision Act and sectoral laws)}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.finma.ch/en/documentation/finma-s-legal-basis/
+      \endverb
+      \verb{url}
+      \verb https://www.finma.ch/en/documentation/finma-s-legal-basis/
+      \endverb
+    \endentry
+    \entry{germany_kwg}{misc}{}{}
+      \list{organization}{1}{%
+        {Gesetze im Internet (BMJ/Bundesanzeiger Verlag)}%
+      }
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Gesetz über das Kreditwesen ({KWG})}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.gesetze-im-internet.de/kredwg/
+      \endverb
+      \verb{url}
+      \verb https://www.gesetze-im-internet.de/kredwg/
+      \endverb
+    \endentry
+    \entry{Hambly2021RLFinance}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=49bf8fc56854bf0c0902b1d7af12f355}{%
+           family={Hambly},
+           familyi={H\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=83b108c1ae00aae3bc551e97c72ae5fb}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ac1e6d4937144cc9688db204fbb7e17}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5280997e17def0e7f4398ad8a968a26d}
+      \strng{fullhash}{6f6f464e672bbecfac0623ae76c6e84d}
+      \strng{fullhashraw}{6f6f464e672bbecfac0623ae76c6e84d}
+      \strng{bibnamehash}{6f6f464e672bbecfac0623ae76c6e84d}
+      \strng{authorbibnamehash}{6f6f464e672bbecfac0623ae76c6e84d}
+      \strng{authornamehash}{5280997e17def0e7f4398ad8a968a26d}
+      \strng{authorfullhash}{6f6f464e672bbecfac0623ae76c6e84d}
+      \strng{authorfullhashraw}{6f6f464e672bbecfac0623ae76c6e84d}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematical Finance}
+      \field{number}{3}
+      \field{title}{Recent advances in reinforcement learning in finance}
+      \field{volume}{31}
+      \field{year}{2021}
+      \field{pages}{782\bibrangedash 813}
+      \range{pages}{32}
+      \verb{doi}
+      \verb 10.1111/mafi.12315
+      \endverb
+    \endentry
+    \entry{Kurz2025FMAAustria}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=592562982e53f663d0c53c014b6f02c0}{%
+           family={Kurz},
+           familyi={K\bibinitperiod},
+           given={Walter},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a789f682e23832e2e948508d23be99f}{%
+           family={Magg},
+           familyi={M\bibinitperiod},
+           given={Reinhard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9fd6ad2f9f92b03239096c231b8e749c}{%
+           family={Stromeyer},
+           familyi={S\bibinitperiod},
+           given={Konrad},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{ec3e2b1cd9437e7da0fef6a18293aa93}
+      \strng{fullhash}{8d2e045f9e2f3a307e10d0bd45368d39}
+      \strng{fullhashraw}{8d2e045f9e2f3a307e10d0bd45368d39}
+      \strng{bibnamehash}{8d2e045f9e2f3a307e10d0bd45368d39}
+      \strng{authorbibnamehash}{8d2e045f9e2f3a307e10d0bd45368d39}
+      \strng{authornamehash}{ec3e2b1cd9437e7da0fef6a18293aa93}
+      \strng{authorfullhash}{8d2e045f9e2f3a307e10d0bd45368d39}
+      \strng{authorfullhashraw}{8d2e045f9e2f3a307e10d0bd45368d39}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{3075-2868}
+      \field{journaltitle}{Journal of Next-Generation Research 5.0}
+      \field{number}{4}
+      \field{title}{Financial and Operational Impacts of Regulatory Compliance on the Austrian Securities Industry}
+      \field{volume}{1}
+      \field{year}{2025}
+      \field{pages}{137}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.70792/jngr5.0.v1i5.137
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.70792/jngr5.0.v1i5.137
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.70792/jngr5.0.v1i5.137
+      \endverb
+    \endentry
+    \entry{Malibari2023RLFintech}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9483c5798b4458a7f8e34c7fe51f88bb}{%
+           family={Malibari},
+           familyi={M\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b259694a635d19d1526e88623b5eab8f}{%
+           family={Katib},
+           familyi={K\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52f3ce1855f821640884add803082683}{%
+           family={Mehmood},
+           familyi={M\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{51e5ffcc442e9ee166ea49bc9392bc2a}
+      \strng{fullhash}{d04ef65c39a9310893bfa1475d3d4d32}
+      \strng{fullhashraw}{d04ef65c39a9310893bfa1475d3d4d32}
+      \strng{bibnamehash}{d04ef65c39a9310893bfa1475d3d4d32}
+      \strng{authorbibnamehash}{d04ef65c39a9310893bfa1475d3d4d32}
+      \strng{authornamehash}{51e5ffcc442e9ee166ea49bc9392bc2a}
+      \strng{authorfullhash}{d04ef65c39a9310893bfa1475d3d4d32}
+      \strng{authorfullhashraw}{d04ef65c39a9310893bfa1475d3d4d32}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cloud Computing}
+      \field{number}{1}
+      \field{title}{Systematic review on reinforcement learning in the field of FinTech}
+      \field{volume}{12}
+      \field{year}{2023}
+      \field{pages}{1\bibrangedash 34}
+      \range{pages}{34}
+      \verb{doi}
+      \verb 10.1186/s13677-023-00449-1
+      \endverb
+    \endentry
+    \entry{gdpr_2016}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) 2016/679 on the protection of natural persons with regard to the processing of personal data ({GDPR})}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2016/679/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2016/679/oj
+      \endverb
+    \endentry
+    \entry{dora_2022}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) 2022/2554 on digital operational resilience for the financial sector ({DORA})}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2022/2554/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2022/2554/oj
+      \endverb
+    \endentry
+    \entry{mica_2023}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) 2023/1114 on markets in crypto-assets ({MiCA})}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2023/1114/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2023/1114/oj
+      \endverb
+    \endentry
+    \entry{crr2013}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) No 575/2013 on prudential requirements for credit institutions and investment firms ({CRR})}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2013/575/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2013/575/oj
+      \endverb
+    \endentry
+    \entry{mifir_2014}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) No 600/2014 on markets in financial instruments ({MiFIR})}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2014/600/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2014/600/oj
+      \endverb
+    \endentry
+    \entry{emir_2012}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) No 648/2012 on OTC derivatives, central counterparties and trade repositories ({EMIR})}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2012/648/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2012/648/oj
+      \endverb
+    \endentry
+    \entry{csdr_2014}{misc}{}{}
+      \list{organization}{1}{%
+        {Official Journal of the European Union}%
+      }
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Regulation (EU) No 909/2014 on improving securities settlement in the European Union and on central securities depositories ({CSDR})}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg/2014/909/oj
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg/2014/909/oj
+      \endverb
+    \endentry
+    \entry{IJITMIS2025BPMAudit}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b8812d5710d5f4148ed606f77dbbd8a4}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=40faa1bc69980517511d12eb5ab3c8bb}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{56cd71cd8a99ae41fc59cc9a8db4a09d}
+      \strng{fullhash}{56cd71cd8a99ae41fc59cc9a8db4a09d}
+      \strng{fullhashraw}{56cd71cd8a99ae41fc59cc9a8db4a09d}
+      \strng{bibnamehash}{56cd71cd8a99ae41fc59cc9a8db4a09d}
+      \strng{authorbibnamehash}{56cd71cd8a99ae41fc59cc9a8db4a09d}
+      \strng{authornamehash}{56cd71cd8a99ae41fc59cc9a8db4a09d}
+      \strng{authorfullhash}{56cd71cd8a99ae41fc59cc9a8db4a09d}
+      \strng{authorfullhashraw}{56cd71cd8a99ae41fc59cc9a8db4a09d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Information Technology \& Management Information Systems}
+      \field{title}{Ensuring data integrity and auditability in BPM systems: A blockchain-based approach}
+      \field{year}{2025}
+    \endentry
+    \entry{DORA_Skadden2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=80f1a2a7be43d4a2820803e9edb6bc9c}{%
+           family={{Skadden}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{80f1a2a7be43d4a2820803e9edb6bc9c}
+      \strng{fullhash}{80f1a2a7be43d4a2820803e9edb6bc9c}
+      \strng{fullhashraw}{80f1a2a7be43d4a2820803e9edb6bc9c}
+      \strng{bibnamehash}{80f1a2a7be43d4a2820803e9edb6bc9c}
+      \strng{authorbibnamehash}{80f1a2a7be43d4a2820803e9edb6bc9c}
+      \strng{authornamehash}{80f1a2a7be43d4a2820803e9edb6bc9c}
+      \strng{authorfullhash}{80f1a2a7be43d4a2820803e9edb6bc9c}
+      \strng{authorfullhashraw}{80f1a2a7be43d4a2820803e9edb6bc9c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.skadden.com/insights/publications/2024/07/the-eus-digital-operational-resilience-act}}
+      \field{note}{Analysis of ICT risk requirements under DORA}
+      \field{title}{The EU's Digital Operational Resilience Act ({DORA})}
+      \field{year}{2024}
+    \endentry
+    \entry{Sun2025MultiAgentHDRL}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ff7a7e41b9c49df9a1842bbf5c867ffb}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ff7a7e41b9c49df9a1842bbf5c867ffb}
+      \strng{fullhash}{ff7a7e41b9c49df9a1842bbf5c867ffb}
+      \strng{fullhashraw}{ff7a7e41b9c49df9a1842bbf5c867ffb}
+      \strng{bibnamehash}{ff7a7e41b9c49df9a1842bbf5c867ffb}
+      \strng{authorbibnamehash}{ff7a7e41b9c49df9a1842bbf5c867ffb}
+      \strng{authornamehash}{ff7a7e41b9c49df9a1842bbf5c867ffb}
+      \strng{authorfullhash}{ff7a7e41b9c49df9a1842bbf5c867ffb}
+      \strng{authorfullhashraw}{ff7a7e41b9c49df9a1842bbf5c867ffb}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Finance and Computation}
+      \field{title}{A novel multi-agent hierarchical deep reinforcement learning framework for portfolio optimization}
+      \field{year}{2025}
+    \endentry
+    \entry{sifEU2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ca3c05496176ce2f5cf8a3fedaa8993f}{%
+           family={{Swiss State Secretariat for International Finance (SIF)}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ca3c05496176ce2f5cf8a3fedaa8993f}
+      \strng{fullhash}{ca3c05496176ce2f5cf8a3fedaa8993f}
+      \strng{fullhashraw}{ca3c05496176ce2f5cf8a3fedaa8993f}
+      \strng{bibnamehash}{ca3c05496176ce2f5cf8a3fedaa8993f}
+      \strng{authorbibnamehash}{ca3c05496176ce2f5cf8a3fedaa8993f}
+      \strng{authornamehash}{ca3c05496176ce2f5cf8a3fedaa8993f}
+      \strng{authorfullhash}{ca3c05496176ce2f5cf8a3fedaa8993f}
+      \strng{authorfullhashraw}{ca3c05496176ce2f5cf8a3fedaa8993f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{European Union: Market access and equivalence}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.sif.admin.ch/en/european-union-eu
+      \endverb
+      \verb{url}
+      \verb https://www.sif.admin.ch/en/european-union-eu
+      \endverb
+    \endentry
+    \entry{germany_wphg}{misc}{}{}
+      \list{organization}{1}{%
+        {Gesetze im Internet (BMJ/Bundesanzeiger Verlag)}%
+      }
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Wertpapierhandelsgesetz ({WpHG})}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.gesetze-im-internet.de/wphg/
+      \endverb
+      \verb{url}
+      \verb https://www.gesetze-im-internet.de/wphg/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
